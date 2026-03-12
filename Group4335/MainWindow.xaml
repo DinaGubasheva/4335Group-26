@@ -52,8 +52,8 @@
 				<TextBlock Grid.Row="0">1. Алексеев Радмир Денисович</TextBlock>
 				<TextBlock Grid.Row="1">2. Галимуллин Ирек Ринатович</TextBlock>
 				<TextBlock Grid.Row="2">3. Губаев Ришат Марсельевич</TextBlock>
-				<TextBlock Grid.Row="3">4. Губашева Дина Ленаровна</TextBlock>
-				<TextBlock Grid.Row="4">5. Ефанова Анна Павловна 🧁</TextBlock>
+                <TextBlock Grid.Row="3">4. Губашева Дина Ленаровна 🧁</TextBlock>
+				<TextBlock Grid.Row="4">5. Ефанова Анна Павловна</TextBlock>
 				<TextBlock Grid.Row="5">6. Закиров Алмаз Айратович</TextBlock>
 				<TextBlock Grid.Row="6">7. Климовская Анастасия Андреевна</TextBlock>
 				<TextBlock Grid.Row="7">8. Криушин Михаил Алексеевич</TextBlock>
@@ -71,7 +71,7 @@
 				<TextBlock Grid.Row="19">20. Шаймарданов Адель Ахатович</TextBlock>
 
 				<!-- Места для добавления элементов управления (кнопок) -->
-				<Button Grid.Row="13" 
+				<Button Grid.Row="3" 
                         Grid.Column="1" 
                         Content="Информация" 
                         Width="100"
